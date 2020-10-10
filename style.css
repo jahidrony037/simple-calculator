@@ -33,7 +33,7 @@ body{
     text-align: right;
     height: 60px;
     margin: 10px 20px;
-    font-size: 32px;
+	font-size: 30px;
 
 }
 #keyboard{
@@ -52,10 +52,6 @@ body{
 .number, .empty{
     background-color: rgb(68, 68, 129);
 
-}
-.empty{
-    cursor: move;
-    
 }
 .number, .operator{
     cursor: pointer;
